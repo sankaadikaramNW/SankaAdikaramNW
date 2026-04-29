@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 ```js
-const KDJayakody = {
+const Sanka Adikaram = {
     location: "Sri Lanka 🇱🇰",
     education: "Blacholor of data science",
     roles: ["Full Stack Developer", "IOT Developer", "AI Enthusiast"],
