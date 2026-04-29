@@ -30,4 +30,4 @@
 ## 📫 Contact Me
 
 * Email: [sankaadikaramnew@gmail.com](mailto:sankaadikaramnew@gmail.com)
-* LinkedIn: (add later)
+* LinkedIn: www.linkedin.com/in/sanka-adikaram-9683b3192
