@@ -30,7 +30,7 @@
 - **Web Technologies:** HTML5, CSS3  
 - **Databases:** MySQL, PostgreSQL  
 - **Tools & Platforms:** Git, Linux, VS Code  
-- **Hardware & Systems:** Electronics, CCTV Installation, Laptop Repair & Maintenance  
+- **Hardware & Systems:** Electronics & Embedded systems, CCTV Installation, Laptop Repair & Maintenance  
 
 ---
 
