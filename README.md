@@ -1,32 +1,40 @@
-# 👋 Hi, I'm Sanka Adikaram
-
-## 🌍 About Me
-
-* 🇱🇰 From Sri Lanka
-* 💻 Learning Programming
-* 🤖 Interested in AI & Machine Learning
-* 🚀 Currently building projects
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Sanka Adikaram</h1>
+<h3 align="center">AI | Machine Learning | Full Stack Developer | Electronics Enthusiast</h3>
 
 ---
 
-## 🛠️ Skills
+## 🧑‍💻 About Me
 
-* Python 🐍
-* JavaScript ⚡
-* C++ 💻
-* FastAPI 💻
+- 🇱🇰 Based in Sri Lanka  
+- 💡 Passionate about Artificial Intelligence and Machine Learning  
+- 🛠️ Skilled in both software development and hands-on technical systems  
+- 🚀 Focused on building real-world AI-powered solutions  
+- 📈 Continuously learning and improving in modern technologies  
+
+---
+
+## 🚀 Key Projects
+
+- 🏏 **Cricket Match Prediction System** – Machine learning-based predictive analytics  
+- 🪖 **Smart Gate Monitoring System** – Real-time monitoring and alerting solution  
+- ☀️ **AI-Based Solar Flare Prediction System** – Forecasting using data-driven models  
+- 🔫 **T-56 Virtual Smart Firearm Simulator** – Computer vision-based training system  
 
 ---
 
-## 📌 Projects
+## 🛠️ Technical Skills
 
-* Cricket Match Prediction App
-* Gate Monitoring System
-* AI Based Solar flare prediction & forecasting system
-* T-56 Virtual Smart firearms Simulator
+- **Programming:** Python, JavaScript, C++  
+- **Backend Development:** FastAPI, Node.js  
+- **Web Technologies:** HTML5, CSS3  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools & Platforms:** Git, Linux, VS Code  
+- **Hardware & Systems:** Electronics, CCTV Installation, Laptop Repair & Maintenance  
 
 ---
-## 🛠️ Tech Arsenal
+
+## 🧰 Tech Stack
 
 ### 💻 Core Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,15 +44,15 @@
 
 ---
 
-
-### 🌐 Web Technologies
+### 🌐 Web & Backend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-------
-### 🚀 Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+### ⚙️ Frameworks & Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -59,6 +67,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -67,9 +76,13 @@
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankaadikaramnew@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanka-adikaram-9683b3192)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)
+
+---
+
+⭐️ *Building intelligent systems that bridge software and real-world applications*
