@@ -84,5 +84,15 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sankaadikaramNWE&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankaadikaramNW&theme=tokyonight" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankaadikaramNW&layout=compact&theme=tokyonight">
+</p>
 
 ⭐️ *Building intelligent systems that bridge software and real-world applications*
