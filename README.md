@@ -1,14 +1,33 @@
-# 👋 Hi, I'm KD Sanka Adikaram
+# 👋 Hi, I'm Sanka Adikaram
 
-## 🚀 About Me
+## 🌍 About Me
 
-```js
-const Sanka Adikaram = {
-    location: "Sri Lanka 🇱🇰",
-    education: "Blacholor of data science",
-    roles: ["Full Stack Developer", "IOT Developer", "AI Enthusiast"],
-    currentFocus: ["Operating Systems", "Network technician", "Advanced System Design",Hardware programming],
-    
-    
-    lifePhilosophy: "Learning something new every day 🚀"
-};
+* 🇱🇰 From Sri Lanka
+* 💻 Learning Programming
+* 🤖 Interested in AI & Machine Learning
+* 🚀 Currently building projects
+
+---
+
+## 🛠️ Skills
+
+* Python 🐍
+* JavaScript ⚡
+* C++ 💻
+* FastAPI 💻
+
+---
+
+## 📌 Projects
+
+* Cricket Match Prediction App
+* Gate Monitoring System
+* AI Based Solar flare prediction & forecasting system
+* T-56 Virtual Smart firearms Simulator
+
+---
+
+## 📫 Contact Me
+
+* Email: [sankaadikaramnew@gmail.com](mailto:sankaadikaramnew@gmail.com)
+* LinkedIn: (add later)
